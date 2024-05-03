@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![desctop](./assets/desctop-view.png)
-![mobile](./assets/mobile-view.png)
+![desctop](/public/images/desktop.png)
+![mobile](/public/images/mobile.png)
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/Ashraful-Mijan/social-links-profile-solution)
-- Live Site URL: [live site](https://social-links-profile-solution-ten.vercel.app/)
+- Solution URL: [github repo](https://interactive-comment-section-seven.vercel.app/)
+- Live Site URL: [live site](https://github.com/Ashraful-Mijan/interactive-comment-section)
 
 ## My process
 
